@@ -1,6 +1,6 @@
-step 1 : clone repo form repository
+step 1 : clone repo form github
 
-step 2 : run command npm install
+step 2 : go to project root folder and run command npm install
 
 step 3 : run command npx react-native run-ios for iOS or run npx react-native run-android for Android or Open Xcode or Android Studio for Run APP throgh IDE.
 
